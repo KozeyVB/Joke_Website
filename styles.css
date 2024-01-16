@@ -40,6 +40,7 @@ body {
 }
 
 .reponse:hover {
+    
     filter: blur(0px);
 }
 
